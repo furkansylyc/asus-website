@@ -3,4 +3,4 @@ Bu web projesi, kullanıcıların Asus markasına ait bilgisayarlar, dizüstü b
 Kullanılan Teknolojiler:
 
 HTML: Web sayfalarının temel yapısını oluşturmak için kullanıldı.
-CSS: Tasarım ve stil için, modern ve çekici bir görünüm elde etmek amacıyla kullanıldı.
+ CSS: Tasarım ve stil için, modern ve çekici bir görünüm elde etmek amacıyla kullanıldı.
